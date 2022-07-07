@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## @hatone (Takako Ohshima)
 Hi, I'm hatone, a software engineer. Recently I work as a data engineer, especially using Airflow.
 
